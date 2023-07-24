@@ -1,4 +1,4 @@
-# The Complete Python Pro Bootcamp for 2023
+# 100 Days of Code: The Complete Python Pro Bootcamp for 2023
 ### Created by Dr.Angela Yu
 
 This is my repository of coding projects from the course.
