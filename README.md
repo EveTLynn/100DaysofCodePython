@@ -6,4 +6,4 @@ This is my repository of coding projects from the course.
 
 Assignments [link](https://app.codingrooms.com/management/courses/6387/classes/8480/assignments)
 
-The first 21 days of code can be found in replit via this [link](https://replit.com/@EveTLynn?path=folder/100%20days%20Python%20challenge)h
+The first 21 days of code can be found in replit via this [link](https://replit.com/@EveTLynn?path=folder/100%20days%20Python%20challenge)
